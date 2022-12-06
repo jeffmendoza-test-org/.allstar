@@ -1,1 +1,4 @@
 baseConfig: google/allstar-config
+optConfig:
+  optOutRepos:
+  - .jtp
