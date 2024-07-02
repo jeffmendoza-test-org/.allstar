@@ -5,11 +5,11 @@ action: issue
 # Policies
 adminAllowed: false
 pushAllowed: false
-#exemptions:
-#  - user: ChrisUser
-#    repo: federal-repo
-#    push: true
-#    admin: false
+exemptions:
+  - user: gossts
+    repo: .foo
+    push: true
+    admin: false
 #  - user: brianuser
 #    repo: federal-repo
 #    push: true
