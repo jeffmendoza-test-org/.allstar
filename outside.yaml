@@ -9,7 +9,7 @@ exemptions:
   - user: gossts
     repo: .foo
     push: true
-    admin: false
+    admin: true
 #  - user: brianuser
 #    repo: federal-repo
 #    push: true
