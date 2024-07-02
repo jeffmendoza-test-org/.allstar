@@ -1,1 +1,16 @@
-baseConfig: google/allstar-config
+optConfig:
+  disableRepoOverride: false
+  optOutStrategy: true
+action: issue
+# Policies
+adminAllowed: false
+pushAllowed: false
+#exemptions:
+#  - user: ChrisUser
+#    repo: federal-repo
+#    push: true
+#    admin: false
+#  - user: brianuser
+#    repo: federal-repo
+#    push: true
+#    admin: false
