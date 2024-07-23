@@ -13,7 +13,7 @@ checks:
 - Packaging
 - Pinned-Dependencies
 - SAST
-- SBOM
+# - SBOM Unknown scorecard check specified
 - Signed-Releases
 - Token-Permissions
 - Vulnerabilities
