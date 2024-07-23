@@ -1,0 +1,21 @@
+optConfig:
+  optOutStrategy: true
+action: issue
+checks:
+- CI-Tests
+- CII-Best-Practices
+- Code-Review
+- Contributors
+- Dependency-Update-Tool
+- Fuzzing
+- License
+- Maintained
+- Packaging
+- Pinned-Dependencies
+- SAST
+- SBOM
+- Signed-Releases
+- Token-Permissions
+- Vulnerabilities
+- Webhooks
+threshold: 5
