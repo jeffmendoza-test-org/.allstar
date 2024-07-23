@@ -3,7 +3,7 @@ optConfig:
 action: issue
 checks:
 - CI-Tests
-- CII-Best-Practices
+# - CII-Best-Practices client is nil
 - Code-Review
 - Contributors
 - Dependency-Update-Tool
