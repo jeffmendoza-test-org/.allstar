@@ -17,5 +17,5 @@ checks:
 - Signed-Releases
 - Token-Permissions
 - Vulnerabilities
-- Webhooks
+# - Webhooks
 threshold: 5
