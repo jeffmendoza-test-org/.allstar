@@ -1,6 +1,6 @@
 optConfig:
   optOutStrategy: true
-action: issue
+action: log
 checks:
 - CI-Tests
 # - CII-Best-Practices client is nil
